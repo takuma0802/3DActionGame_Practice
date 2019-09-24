@@ -1,0 +1,11 @@
+@startuml ClassDiagram
+class aaa
+
+
+namespace Input{
+
+}
+
+namespace
+
+@enduml
